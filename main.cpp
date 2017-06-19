@@ -30,7 +30,7 @@ int main()
 {
     Retanggle rec;
 
-    rec.setHeight(12);
+    rec.setHeight(14);
     rec.setWidth(43);
 
     cout<<rec.getArea();
